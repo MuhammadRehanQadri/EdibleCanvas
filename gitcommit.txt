@@ -1,0 +1,4 @@
+>git status
+>git add .
+>git commit -m "Update web"
+>git push origin master
